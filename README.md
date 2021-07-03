@@ -1,2 +1,3 @@
 # org.frappe.documents
-Publicly available assets related to Frappé
+
+This repository holds publicly available documents, from guidelines to licences.
